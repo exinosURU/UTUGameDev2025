@@ -1,0 +1,1 @@
+# Componentes de interfaz de usuario (botones, menús, HUD, puntajes).

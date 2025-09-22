@@ -1,0 +1,1 @@
+# mensajes en pantalla (ej: recolectar ítems, avisos al jugador).
