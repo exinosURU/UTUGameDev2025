@@ -17,3 +17,19 @@
 ```
 
 - File / Settings / Python / Interpreter / Add Interpreter / Add local interpreter / Select existing -> Type: Python, y en el path el que se tenga instalado.
+
+
+## Generación de Atlas
+
+1. Acceder a https://www.leshylabs.com/apps/ y seleccionar SpriteSheet Tool
+2. Arrastrar y soltar las imágenes que se quieran en el atlas.
+![img.png](img.png)
+3. Seleccionar _Remap_, _Optimize_ y finalmente guardar el nuevo spritesheet.
+![img_2.png](img_2.png)
+4. Finalmente elegir el formato de salida (JSON-TP-Hash) y guardar el atlas.
+![img_3.png](img_3.png)
+5. Se descargará un archivo JSON con el atlas (estará en una sola línea, se puede utilizar cualquier IDE para identarlo de una manera mas legible).
+
+
+
+
