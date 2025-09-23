@@ -1,0 +1,154 @@
+{
+  "frames": {
+    "sprite1": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 71
+      }
+    },
+    "sprite2": {
+      "frame": {
+        "x": 30,
+        "y": 0,
+        "w": 29,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 71
+      }
+    },
+    "sprite3": {
+      "frame": {
+        "x": 60,
+        "y": 0,
+        "w": 29,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 70
+      }
+    },
+    "sprite4": {
+      "frame": {
+        "x": 90,
+        "y": 0,
+        "w": 29,
+        "h": 70
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 70
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 70
+      }
+    },
+    "sprite5": {
+      "frame": {
+        "x": 0,
+        "y": 72,
+        "w": 29,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 69
+      }
+    },
+    "sprite6": {
+      "frame": {
+        "x": 30,
+        "y": 72,
+        "w": 29,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 69
+      }
+    },
+    "sprite7": {
+      "frame": {
+        "x": 60,
+        "y": 72,
+        "w": 29,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 69
+      }
+    }
+  },
+  "meta": {
+    "app": "https://www.leshylabs.com/apps/sstool/",
+    "version": "Leshy SpriteSheet Tool v0.8.4",
+    "image": "idle.png",
+    "size": {
+      "w": 119,
+      "h": 141
+    },
+    "scale": 1
+  }
+}
