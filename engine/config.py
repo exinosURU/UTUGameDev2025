@@ -3,8 +3,8 @@
 
 
 # configuraciones globales
-ANCHO = 960
-ALTO = 540
+ANCHO = 1600
+ALTO = 900
 FPS = 60
 
 # colores
